@@ -13,9 +13,13 @@
   box-sizing: border-box;
   font-family: var(--poppins);
 }
+html {
+  overflow: hidden;
+}
 
 body {
   display: flex;
+  overflow: hidden;
   height: 100%;
 }
 
