@@ -1,7 +1,7 @@
-<h1 align="center"> Desafio Sidebar by Rocketseat</h1>
+<h1 align="center"> Sidebar </h1>
 
 <p align="center">
-Neste desafio você deve criar uma sidebar. Quando o usuário clicar no ícone do menu isso deve fazer com que o estado da sidebar mude entre "aberto", mostrando ícones e texto e "fechado", mostrando apenas os ícones.
+	Simplesmente, uma sidebar. Quando o usuário clicar no ícone do menu, isso deve fazer com que o estado da sidebar mude entre "aberto", mostrando ícones e texto e "fechado", mostrando apenas os ícones.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma característica principal desta página web é uma barra lateral que se abre e fecha quando o ícone do menu hambúrguer é clicado. Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/desafio-sidebar-rocketseat/).
+Uma característica principal desta página web é uma barra lateral que se abre e fecha quando o ícone do menu hambúrguer é clicado. Dê uma olhada no projeto [aqui](https://matheusfdosan.github.io/sidebar/).
 
 ## 🔖 Layout
 
